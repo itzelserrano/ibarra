@@ -1,0 +1,15 @@
+img{
+    animation-duration: 15s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 50%;
+      
+    }
+  
+    to {
+      margin-left: 0%;
+          }
+  }
